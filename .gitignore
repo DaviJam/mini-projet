@@ -34,3 +34,6 @@ override.tf.json
 
 # Ignore private key file
 *.pem
+
+# Ignore generated file
+*.txt
